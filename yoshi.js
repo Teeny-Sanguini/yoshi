@@ -6,5 +6,5 @@ function init() {
 }
 
 function yoshio() {
-    alert('yoshi!');
+    alert('Yoshi!');
 }
