@@ -11,3 +11,8 @@
 #yoshi:hover {
   border-color: red;
 }
+
+h1:hover {
+  color: lime;
+}
+  
