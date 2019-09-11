@@ -12,7 +12,11 @@
   border-color: red;
 }
 
-h1,h2:hover {
+h1:hover {
+  color: lime;
+}
+
+h2:hover {
   color: lime;
 }
   
