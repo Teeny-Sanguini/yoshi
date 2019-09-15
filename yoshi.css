@@ -16,6 +16,7 @@
 h1, h2 {
    width: 200px;
    margin: 0px auto 0px auto;
+   font-family: san-serif;
 }
 
 h1:hover {
@@ -25,4 +26,5 @@ h1:hover {
 h2:hover {
   color: lime;
 }
+
   
