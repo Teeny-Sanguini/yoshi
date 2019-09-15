@@ -16,7 +16,7 @@
 h1, h2 {
    width: 200px;
    margin: 0px auto 0px auto;
-   font-family: san-serif;
+   font-family: sans-serif;
 }
 
 h1:hover {
