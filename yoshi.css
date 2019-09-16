@@ -27,4 +27,6 @@ h2:hover {
   color: lime;
 }
 
-  
+#smv {
+  display: inline-block;
+}
