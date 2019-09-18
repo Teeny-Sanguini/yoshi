@@ -30,3 +30,8 @@ h2:hover {
 #smv {
   display: inline-block;
 }
+
+#yoshi-pics {
+  width: 200px;
+  float: right;
+}
