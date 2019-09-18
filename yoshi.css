@@ -35,3 +35,8 @@ h2:hover {
   width: 200px;
   float: right;
 }
+
+.photo-size {
+  width: 220px;
+  height: 192px;
+}
