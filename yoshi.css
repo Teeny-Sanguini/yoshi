@@ -19,13 +19,13 @@ h1, h2 {
    font-family: sans-serif;
 }
 
-h1:hover {
+h1:hover, h2:hover {
   color: lime;
 }
 
-h2:hover {
+/* h2:hover {
   color: lime;
-}
+} */
 
 /* #smv {
   display: inline-block;
