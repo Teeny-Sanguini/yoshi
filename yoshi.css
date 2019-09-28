@@ -34,7 +34,7 @@ h1:hover, h2:hover {
 #yoshi-pics {
   width: 200px;
   display: inline-block;
-  height: 400px;
+  margin-top: 20px;
 }
 
 .photo-size {
